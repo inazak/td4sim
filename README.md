@@ -58,7 +58,7 @@ repeat `ADD A,0b0001` and `ADD B,0b0001` endlessly.
 Memory is 8bit x 16words.
 There is also a 4bit DIPSW for input.
 
-``
+```
 High     Low      Input 
 7 6 5 4  3 2 1 0  dipsw carry | mnemonic
 ------------------------------|------------
